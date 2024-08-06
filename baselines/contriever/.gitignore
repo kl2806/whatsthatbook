@@ -1,0 +1,7 @@
+checkpoint/*
+outputs
+__pycache__/
+downloads
+contriever_embeddings
+contriever_nq
+open_domain_data
